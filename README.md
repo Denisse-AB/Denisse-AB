@@ -11,7 +11,7 @@ Bilingual (English and Spanish) web developer from Puerto Rico, currently workin
 - Deployment experience: Heroku, firebase, and Github pages.
 
 ## Hobbies
-- 🏋🏼‍♂️ I like to heavyweight lift four days a week.
+- :weight_lifting_woman: I like to heavyweight lift four days a week.
 
 ## Contact
-📧 Contact me at info@codingpr.com
+:mailbox_with_no_mail: Contact me at info@codingpr.com

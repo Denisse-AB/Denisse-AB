@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Denisse-AB/Denisse-AB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification and running [codingpr.com](https://codingpr.com). If you are looking for collaborators in any area of my skills, send me a message.
 
-Here are some ideas to get you started:
+## Skills
+- :white_check_mark: Python certified.
+- :white_check_mark: Python Data Science certified.
+- Proficient In Vue.js and Nuxt.js frameworks.
+- Experience using CSS, sass, Vuetify, and Bootsrap.
+- Experience using Django, Laravel, and Express.js backend frameworks.
+- Deployment experience: Heroku, firebase, and Github pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+- 🏋🏼‍♂️ I like to heavyweight lift four days a week.
+
+## Contact
+📧 Contact me at info@codingpr.com

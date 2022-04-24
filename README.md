@@ -14,5 +14,4 @@ Bilingual (English and Spanish) web developer from Puerto Rico, currently workin
 - 🏋🏼‍♂️ I like to heavyweight lift four days a week.
 
 ## Contact
----
 📧 Contact me at info@codingpr.com

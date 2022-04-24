@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification and running [codingpr.com](https://codingpr.com). If you are looking for collaborators in any area of my skills, send me a message.
 
@@ -14,4 +14,5 @@ Bilingual (English and Spanish) web developer from Puerto Rico, currently workin
 - 🏋🏼‍♂️ I like to heavyweight lift four days a week.
 
 ## Contact
+---
 📧 Contact me at info@codingpr.com

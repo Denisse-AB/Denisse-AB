@@ -8,6 +8,7 @@ Bilingual (English and Spanish) web developer from Puerto Rico, currently workin
 - Proficient In Vue.js and Nuxt.js frameworks.
 - Experience using CSS, sass, Vuetify, and Bootsrap.
 - Experience using Django, Laravel, and Express.js backend frameworks.
+- Database experience in PostgreSQL, MySQL, and Firestore (No SQL).
 - Deployment experience: Heroku, firebase, and Github pages.
 
 ## Hobbies

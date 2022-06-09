@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification, typescript and running [codingpr.com](https://codingpr.com).
+Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification, typescript and running [codingpr.com](https://codingpr.com). For collaborations, contact me at info@codingpr.com.
 
 ## Skills
 - :white_check_mark: Python certified.

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification, typescript and running [codingpr.com](https://codingpr.com). [Member of Google's Women Techmakers](https://developers.google.com/profile/badges/community/wtm/member).
+Bilingual (English and Spanish) web developer from Puerto Rico, currently working on my react certification, typescript and running [codingpr.com](https://codingpr.com). I'm a [Member of Google's Women Techmakers](https://developers.google.com/profile/badges/community/wtm/member).
 
 ## Skills
 - :white_check_mark: Python certified.

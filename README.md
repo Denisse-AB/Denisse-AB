@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-Bilingual (English and Spanish) web developer from Puerto Rico, currently blogging on [codingpr.com](https://codingpr.com/). I'm a [Member of Google's Women Techmakers](https://developers.google.com/profile/badges/community/wtm/member).
+- Self-taught web developer and career path-changer.
+- From the Banking Industry to Tech (2018 - present). 
+- Enthusiast of Javascript and Python. 
+- [Member of Google's Women Techmakers](https://developers.google.com/profile/badges/community/wtm/member).
+- [Google Dev](https://developers.google.com/profile/u/denisse-ab).
+- TypeScript is my new passion!
 
 ## Skills
 - :white_check_mark: Python certified.
@@ -15,10 +20,7 @@ Bilingual (English and Spanish) web developer from Puerto Rico, currently bloggi
 
 ## Hobbies
 - Besides coding, I like to :weight_lifting_woman: lift.
-
-<!-- <video width="500" height="255">
-  <source src="https://skyline.github.com/denisse-ab/2021" type="video" alt="Gighub Contributions Video">
-</video> -->
+- Due to inflation I'm farming now :seedling:
 
 ## Contact
 :mailbox_with_no_mail: Contact me at info@codingpr.com

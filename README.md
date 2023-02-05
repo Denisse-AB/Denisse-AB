@@ -20,7 +20,7 @@
 
 ## Hobbies
 - Besides coding, I like to :weight_lifting_woman: lift.
-- Due to inflation I'm farming now :seedling:
+- Due to inflation, I'm farming now :seedling:
 
 ## Contact
 :mailbox_with_no_mail: Contact me at info@codingpr.com

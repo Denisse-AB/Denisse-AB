@@ -19,7 +19,7 @@
 
 ## Hobbies
 - Besides coding, I like to :weight_lifting_woman: lift.
-- Working really hard on my CCNA certification.
+- Working hard on my Network+ and CCNA certification.
 
 ## Contact
 :mailbox_with_no_mail: Contact me at info@codingpr.com

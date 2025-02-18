@@ -15,8 +15,5 @@
 - Frameworks: Vue, Nuxt, and React.
 - Deployment: Heroku, firebase, and Github pages.
 
-## Hobbies
-- Besides coding, I like to :weight_lifting_woman: lift.
-
 ## Contact
 :mailbox_with_no_mail: Contact me at info@codingpr.com

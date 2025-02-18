@@ -11,8 +11,9 @@
 - :white_check_mark: Network Security.
 - :white_check_mark: IP and IP Services.
 - :white_check_mark: Network Automation Basics.
-- Vue.js, Nuxt.js, and React frameworks.
-- Deployment experience: Heroku, firebase, and Github pages.
+- HTML/CSS/JavaScript
+- Frameworks: Vue, Nuxt, and React.
+- Deployment: Heroku, firebase, and Github pages.
 
 ## Hobbies
 - Besides coding, I like to :weight_lifting_woman: lift.

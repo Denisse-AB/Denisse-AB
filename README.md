@@ -11,9 +11,9 @@
 - :white_check_mark: Network Security.
 - :white_check_mark: IP and IP Services.
 - :white_check_mark: Network Automation Basics.
-- HTML/CSS/JavaScript
-- Frameworks: Vue, Nuxt, and React.
-- Deployment: Heroku, firebase, and Github pages.
+- :white_check_mark: HTML/CSS/JavaScript
+- :white_check_mark: Frameworks: Vue, Nuxt, and React.
+- :white_check_mark: Deployment: Heroku, firebase, and Github pages.
 
 ## Contact
 :mailbox_with_no_mail: Contact me at info@codingpr.com

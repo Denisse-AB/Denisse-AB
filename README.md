@@ -2,7 +2,7 @@
 
 - CCNA
 - Self-taught Web Developer. 
-- Javascript and Python. 
+- JavaScript and Python. 
 - [Member of Google's Women Techmakers](https://developers.google.com/profile/badges/community/wtm/member).
 - [Google Dev](https://developers.google.com/profile/u/denisse-ab).
 
@@ -13,7 +13,4 @@
 - :white_check_mark: Network Automation Basics.
 - :white_check_mark: HTML/CSS/JavaScript
 - :white_check_mark: Frameworks: Vue, Nuxt, and React.
-- :white_check_mark: Deployment: Heroku, firebase, and Github pages.
-
-## Contact
-:mailbox_with_no_mail: Contact me at info@codingpr.com
+- :white_check_mark: Deployment: Heroku, Firebase, and GitHub pages.
